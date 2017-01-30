@@ -9,7 +9,7 @@ Arch Linux system
 
 ### Usage
 
-clone the repo and run the following command:
+clone the repo and run the following commands:
 
 ```sh
 $ chmod 755 create_image.sh
